@@ -512,4 +512,19 @@
     <string name="delayed_update_notice">Aplikasi akan diperbaharui pada saat keluar</string>
     <string name="update_started">Pembaharuan Dimulai</string>
     <string name="action_remove_from_watched">Hapus dari tontonan</string>
+    <string name="browser">Browser</string>
+    <string name="select_library">Pilih pustaka</string>
+    <string name="empty_library_no_accounts_message">Yahh daftar pustaka kamu kosong :(
+\nMasuk ke akun pustaka atau tambah perlihatkan ke lokal pustaka kamu</string>
+    <string name="library">Pustaka</string>
+    <string name="sort_by">Urutkan berdasar</string>
+    <string name="sort">Urutkan</string>
+    <string name="sort_rating_asc">Peringkat (Rendah ke Tinggi)</string>
+    <string name="sort_updated_old">Update (Lama ke Terbaru)</string>
+    <string name="sort_rating_desc">Peringkat (Tinggi ke Rendah)</string>
+    <string name="sort_updated_new">Update (Terbaru ke Lama)</string>
+    <string name="sort_alphabetical_a">Abjad (A ke Z)</string>
+    <string name="sort_alphabetical_z">Abjad (Z ke A)</string>
+    <string name="open_with">Buka dengan</string>
+    <string name="empty_library_logged_in_message">Yahh daftar ini kosong, coba ganti ke yang lain</string>
 </resources>
